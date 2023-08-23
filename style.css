@@ -1,0 +1,5 @@
+section {
+    display: grid;
+    grid-template-columns: 30vw 30vw 30vw;
+    grid-column-gap: 40px
+}
